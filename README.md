@@ -118,7 +118,7 @@ The project will use:
 - Jupyter Notebook
 - ucimlrepo
 
-The repository will contain a requirements file and executable exploratory notebook.
+The repository will contain a requirements file and executable exploratory Python script.
 
 ### Planned Repository Structure
 
